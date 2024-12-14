@@ -1,6 +1,6 @@
-#PNN Final Project: Early Exits and Environmental Impact
+PNN Final Project: Early Exits and Environmental Impact
 
-##Overview
+Overview
 
 This project demonstrates the implementation of early exit mechanisms in transformer-based models to optimize energy efficiency while maintaining task performance. Using GPT-2 as a substitute for LLaMA 2 (7B), the code evaluates the trade-offs between performance, efficiency, and environmental impact by dynamically halting inference at intermediate layers based on confidence thresholds.
 
