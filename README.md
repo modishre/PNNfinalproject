@@ -6,28 +6,9 @@ This project demonstrates the implementation of early exit mechanisms in transfo
 
 The project uses the IMDb dataset for binary text classification and tracks energy consumption and emissions using CodeCarbon.
 
-Directory Structure - please refer to this directory
-.
-├── simplemodel/
-│   ├── main.py                # Main script to run the project
-│   ├── early_exit.py          # Implementation of early exit mechanisms
-│   ├── flops_calculator.py    # Calculates FLOPs for utilized layers
-│   ├── codecarbon_logging.py  # Tracks energy usage with CodeCarbon
-│   ├── dataset_handler.py     # Handles dataset loading and preprocessing
-│   ├── results/
-│       └── results_plot.png   # Visualization of results
-└── README.md                  # Project documentation
 
-Directory Structure for LLAMA7B - the actual project code I wrote
-.
-├── LLAMA7Btesting/
-│   ├── main.py                # Main script to run the project
-│   ├── early_exit.py          # Implementation of early exit mechanisms
-│   ├── metrics.py             # Layers output
-│   ├── energy_tracking.py     # Tracks energy usage with CodeCarbon
-│   ├── preprocess.py          # Handles dataset loading and preprocessing
-│   ├── results/
-└── README.md                  
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/f79e325e-4283-42e9-ba06-6c4bd6fa9d77" />
+
 
 Setup and Installation
 
